@@ -9,7 +9,7 @@ console.log(aboutdata);
 return (
 <>
 <div className="container mt-3 section1">
-   <h2>About Us 1</h2>
+   <h2>About Us 1 Manoj </h2>
    <p>Combine .badge classes with utility/helper classes to add badges inside the list group:</p>
    <ul className="list-group">
       { aboutdata.map((curElem) => {
